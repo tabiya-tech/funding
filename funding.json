@@ -23,7 +23,7 @@
       },
       "repositoryUrl": {
         "url": "https://github.com/tabiya-tech/taxonomy-model-application",
-        "wellKnown": "https://github.com/tabiya-tech/taxonomy-model-application/.well-known/funding-manifest-urls"
+        "wellKnown": "https://https://github.com/tabiya-tech/taxonomy-model-application/blob/main/.well-known/funding-manifest-urls"
       },
       "licenses": [
         "spdx:MIT"
