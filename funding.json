@@ -1,0 +1,97 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "organisation",
+    "role": "owner",
+    "name": "Tabiya",
+    "email": "hi@tabiya.org",
+    "phone": "",
+    "description": "Building open-source tools to connect informal economy workers in Sub Saharan Africa to higher-paying jobs",
+    "webpageUrl": {
+      "url": "https://tabiya.org",
+      "wellKnown": "https://tabiya.org/.well-known/funding-manifest-urls"
+    }
+  },
+  "projects": [
+    {
+      "guid": "tabiya-taxonomy",
+      "name": "Tabiya Taxonomy",
+      "description": "Open-source platform for mapping and standardizing informal economy job classifications",
+      "webpageUrl": {
+        "url": "https://docs.tabiya.org/overview/projects/inclusive-livelihoods-taxonomy",
+        "wellKnown": "https://docs.tabiya.org/overview/projects/inclusive-livelihoods-taxonomy/.well-known/funding-manifest-urls"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/tabiya-tech/taxonomy-model-application",
+        "wellKnown": "https://github.com/tabiya-tech/taxonomy-model-application/.well-known/funding-manifest-urls"
+      },
+      "licenses": [
+        "spdx:MIT"
+      ],
+      "tags": [
+        "informal-economy",
+        "job-classification",
+        "economic-development",
+        "social-impact"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "bank-transfer",
+        "type": "bank",
+        "address": "",
+        "description": "Direct bank transfer to our fiscal sponsor available upon request"
+      }
+    ],
+    "plans": [
+      {
+        "guid": "developer-time",
+        "status": "active",
+        "name": "Developer time",
+        "description": "Support the cost of one developer for maintaining and growing the project full-time",
+        "amount": 54000,
+        "currency": "USD",
+        "frequency": "yearly",
+        "channels": [
+          "bank-transfer"
+        ]
+      },
+      {
+        "guid": "language-addition",
+        "status": "active",
+        "name": "Language Addition",
+        "description": "Support the addition of new language modules to expand regional applicability",
+        "amount": 15000,
+        "currency": "USD",
+        "frequency": "other",
+        "channels": [
+          "bank-transfer"
+        ]
+      },
+      {
+        "guid": "contextualization",
+        "status": "active",
+        "name": "Contextualize",
+        "description": "Adjust taxonomy to meet local economic needs of a country and its labor market specificities",
+        "amount": 20000,
+        "currency": "USD",
+        "frequency": "other",
+        "channels": [
+          "bank-transfer"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "year": 2024,
+        "income": 700000,
+        "expenses": 500000,
+        "taxes": 0,
+        "currency": "USD",
+        "description": "Initial deployments in South Africa and Ethiopia"
+      }
+    ]
+  }
+}
