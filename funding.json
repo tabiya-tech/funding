@@ -18,8 +18,8 @@
       "name": "Tabiya Taxonomy",
       "description": "Open-source platform for mapping and standardizing informal economy job classifications",
       "webpageUrl": {
-        "url": "https://docs.tabiya.org/our-tech-stack/inclusive-livelihoods-taxonomy",
-        "wellKnown": "https://docs.tabiya.org/our-tech-stack/inclusive-livelihoods-taxonomy/.well-known/funding-manifest-urls"
+        "url": "https://tabiya.org",
+         "wellKnown": "https://tabiya.org/.well-known/funding-manifest-urls"
       },
       "repositoryUrl": {
         "url": "https://github.com/tabiya-tech/taxonomy-model-application",
